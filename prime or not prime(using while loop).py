@@ -1,7 +1,7 @@
 n = int(input("Enter the number: "))
 flag = False
 if n==0 or n == 1:
-    print("Not a Prime number")
+    flag = True
 else:
     i = 2
     while(i<n):
