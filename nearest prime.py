@@ -7,7 +7,7 @@ while True:
     flag = 0
     flag2 = 0
     nxt = n+i
-    prev = n-1
+    prev = n-i
     for j in range(1, nxt):
         if nxt%j==0:
             flag+=1
