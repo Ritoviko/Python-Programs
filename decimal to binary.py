@@ -10,5 +10,4 @@ def binary(n):
 
 
 n = int(input())
-
 print(binary(n))
