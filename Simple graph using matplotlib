@@ -1,0 +1,6 @@
+import matplotlib. pyplot as plt
+x=[1, 2,3,4,5]
+y=[2.5, 5,4,4.5,0.1]
+plt. plot(x, y)
+plt. title("Hello")
+plt. show()
